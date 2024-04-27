@@ -27,6 +27,12 @@
 - Tabnine
 - Code Spell Checker
 - Prettier ESLint
+- Git len
+- Git Graph
+- Git File History (h logo)
+- vscode-imgur
+- Code Spell Checker
+- markdownlint
 
 ## 應用程式
 
