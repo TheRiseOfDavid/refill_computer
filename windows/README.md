@@ -18,6 +18,7 @@
 - [vscode 儲存時自動排版](https://blog.csdn.net/qq_43435403/article/details/109071969)
 - [cygwin 在 vscode 下出現，參考 VonC 回答](https://stackoverflow.com/questions/46061894/vs-code-cygwin-as-integrated-terminal)
 - [vscode 啟動中 cygwin 無法正確呼叫硬碟資料](https://opensourcedoc.com/windows-programming/cygwin-primer/)
+- [ Github SSH 連線設定教學](https://www.maxlist.xyz/2022/12/22/github-ssh-setting/)
 
 ### 必安裝的 extension
 
