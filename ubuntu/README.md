@@ -29,6 +29,9 @@
 - vscode-imgur
 - markdownlint
 
+## fisher
+
+[Ubuntu 安裝 Fish Shell + Tide 主題 與各種插件](https://www.kwchang0831.dev/dev-env/ubuntu/fish)
 
 ## 安裝套件與指令
 
